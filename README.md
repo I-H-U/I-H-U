@@ -10,9 +10,7 @@
 - ⚡ **Fun Fact**: Smelling plastics = inhaling microplastics (yikes!)
 - 😄 **Pronouns**: He/Him
   
-- 📫 **Contact**:
-- [**LinkedIn**](https://www.linkedin.com/in/imrah99)  
-- **Email**: [imranh@tuta.io](mailto:imranh@tuta.io)
+- 📫 **Contact**: - [**LinkedIn**](https://www.linkedin.com/in/imrah99)  | **Email**: [imranh@tuta.io](mailto:imranh@tuta.io)
 
 ---
 *Thanks for visiting!*
