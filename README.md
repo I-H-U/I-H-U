@@ -1,5 +1,5 @@
 
-![Laptop and Coffee pic](laptopcoffee.webp)
+
 
 
 ### Hi there, I’m Imran (aka @I-H-U)!
