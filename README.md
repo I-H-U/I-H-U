@@ -5,6 +5,7 @@
 - 📫 How to reach me .. TBC....
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Smelling plastics means you are inhaling microplastics!
+
 ![Laptop and Coffee pic](laptopcoffee.webp)
 
 <!---
