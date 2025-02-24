@@ -1,16 +1,28 @@
 
 ![Laptop and Coffee pic](laptopcoffee.webp)
 
+## Hi there, I'm Imran! (aka @I-H-U) 👋  
 
-### Hi there, I’m Imran (aka @I-H-U)!
-- 🔭 **Current Focus**: Learning full-stack development (JS/React).
-- ⚔️ **Games**: Love FPS & RPG. Dreaming of creating a Pokémon-like game in JavaScript.
-- 🍳 **Other Interests**: Cooking up a storm in the kitchen, collecting quirky skills like a Pokémon trainer, and leveling up as a proud Jack of all trades!
-- 🤝 **Collaboration**: Always up for tackling real-world challenges—let’s team up to brainstorm and build creative JS solutions!
-- ⚡ **Fun Fact**: Smelling plastics = inhaling microplastics (yikes!)
-- 😄 **Pronouns**: He/Him
+### 🚀 About Me  
+- 💻 **Aspiring Full-Stack Developer** | Specialising in **JavaScript, React, and Node.js**  
+- 🔍 **Tech Explorer** | Passionate about **problem-solving, automation, and innovative web solutions**  
+- 🎯 **Next Focus:** Learning **Machine Learning, AI, Solidity, Web3 Blockchain, and Smart Contracts**  
+- 🍳 **Hobby Chef** | Experimenting in the kitchen just like I do with code  
+- ✨ **Motto:** *"The magic you're looking for is in the work you're avoiding."*
   
-- 📫 **Contact**: - [**LinkedIn**](https://www.linkedin.com/in/imrah99)  | **Email**: [imranh@tuta.io](mailto:imranh@tuta.io)
+### 🛠 Tech Stack  
+- **Languages:** JavaScript (using Node.js and browsers as environments)  
+- **Front-End:** HTML, CSS, React, Lighthouse  
+- **Back-End:** SQL, PSQL, database seeding & migrations  
+- **Testing:** Test-Driven Development (TDD) with Jest & Supertest  
+- **Hosting:** Cloudflare, Netlify, Render  
+- **Other Skills:** Paired programming, technical communication, SDL, Agile & SCRUM methodologies  
+
+### 🤝 Let's Collaborate!  
+I’m always up for tackling **real-world challenges** and brainstorming **creative coding solutions**.  
+📩 **Reach out to me:**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/imranh99)  
+- 📧 **Email:** [ImranH@tuta.io](mailto:imranh@tuta.io)
 
 ---
 *Thanks for visiting!*
